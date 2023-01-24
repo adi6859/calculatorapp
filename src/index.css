@@ -77,7 +77,7 @@ button:hover{
 .operator button{
   flex-wrap: wrap;
   width: 100%;
-  background-color: skyblue;
+  background-color: lightgreen;
   font-weight: 700;
 
 }
