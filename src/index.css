@@ -70,3 +70,15 @@ button:hover{
   max-width: 33.3333%;
   background-color: var(--dark);
 }
+.OperatorDig{
+  display: flex;
+
+}
+.operator button{
+  flex-wrap: wrap;
+  width: 100%;
+  background-color: skyblue;
+  font-weight: 700;
+
+}
+
